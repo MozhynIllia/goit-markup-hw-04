@@ -226,7 +226,7 @@ img {
     align-items: center;
     justify-content: center;
     height: 112px;
-    background: var(--bright_text-color)
+    background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
     border: 1px solid #8E8F99;
